@@ -1,10 +1,10 @@
-### Hello Name in Rust 
+# Hello Name in Rust 
 
 A simple Rust program that asks the user for their name and greets them with a personalized message.
 
 ---
 
-##  Features
+## Features
 - Reads user input from the console
 - Uses Rust’s standard library (`std::io`)
 - Demonstrates string handling and trimming whitespace
@@ -13,7 +13,7 @@ A simple Rust program that asks the user for their name and greets them with a p
 
 ---
 
-##  Project Structure
+## Project Structure
 hello-name/
 ├─ Cargo.toml # Project configuration
 └─ src/
@@ -22,25 +22,20 @@ hello-name/
 ---
 ## Installations
 - Fork and clone the project from the github (https://github.com/Brianjoseph8132/castone-project)
-- Run
- ```bash
-    cargo new hello-name
-    cd hello-name
- ```
 - Build and run
 ```bash
   cargo run
 ```
 ---
 
-##  Requirements
+## Requirements
 - [Rust](https://www.rust-lang.org/tools/install) (installed via `rustup`)
 - Cargo (comes bundled with Rust)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
-##  VS Code Setup
+## VS Code Setup
 
 Install **VS Code Extensions**:
    - [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) (Rust language support)
